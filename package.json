@@ -1,0 +1,24 @@
+{
+  "name": "js-training",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronskyi-O/js-training.git"
+  },
+  "keywords": [],
+  "author": "Alex <oleksandr.ronskyi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronskyi-O/js-training/issues"
+  },
+  "homepage": "https://github.com/Ronskyi-O/js-training#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
